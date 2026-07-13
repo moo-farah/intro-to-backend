@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-backend",
+  "version": "1.0.0",
+  "description": "intro to backend for web development",
+  "homepage": "https://github.com/moo-farah/intro-to-backend#readme",
+  "bugs": {
+    "url": "https://github.com/moo-farah/intro-to-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moo-farah/intro-to-backend.git"
+  },
+  "license": "ISC",
+  "author": "Mohamed",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
